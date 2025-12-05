@@ -1,0 +1,9 @@
+{
+	"name": "nexadatafact",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2938034f-27c9-4722-8cbb-c16c35d80d83",
+		"tenantId": "2b4d00e2-6acf-43cb-a31a-299fdb85fed6"
+	}
+}
